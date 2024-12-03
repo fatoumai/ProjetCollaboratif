@@ -5,3 +5,4 @@ Ce projet est un exercice pour apprendre Git et GitHub.
 - Utiliser Git pour le contrôle de version.
 - Collaborer avec d'autres via GitHub.
 Modifications depuis main
+Modifications depuis update-readme
